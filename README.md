@@ -2,6 +2,8 @@
 
 Welcome to the E-Commerce Store! This is a full-stack web application designed to provide an e-commerce experience, where users can browse products, add them to a cart, and complete transactions.
 
+admin must be add it from db.
+
 ## Setup .env file
 
 Before running the app, you need to set up the `.env` file with the following environment variables:
